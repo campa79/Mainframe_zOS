@@ -4,12 +4,6 @@
 | ----------- | ----------- | ----------- | ----------- |
 | AC | 1.0 | Initial Version | 13th July 2025 |
 
-### Mainframe z/OS Menu
-
-| Name | Version | Description | Date |
-| ----------- | ----------- | ----------- | ----------- |
-| AC | 1.0 | Initial Version | 13th July 2025 |
-
 # Main Menu
 
 1.  **Network Commands**
@@ -33,4 +27,4 @@
     *   [_Coming Soon_]()
     *   [_Coming Soon_]()
 
-- [Inicio](https://github.com/campa79/Mainframe_zOS "Volver a la página de inicio")
+- [Inicio](https://campa79.github.io/Mainframe_zOS "Volver a la página de inicio")

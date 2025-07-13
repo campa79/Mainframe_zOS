@@ -6,6 +6,12 @@
 
 # TCP/IP Commands
 
-
-
+#### NETSTAT CONF
+```
+D TCPIP,,NETSTAT,CONFIG
+```
+#### NETSTAT TELNET
+```
+DISPLAY TCPIP,TELNET
+```
 [Volver al Menú Principal](https://github.com/campa79/Mainframe_zOS/blob/main/1.Mainframe_zOS_Menu.md "Volver al Menú Principal")

@@ -27,4 +27,4 @@
     *   [_Coming Soon_]()
     *   [_Coming Soon_]()
 
-- [Inicio](https://campa79.github.io/Mainframe_zOS "Volver a la página de inicio")
+- [Return to Main Menu](https://campa79.github.io/Mainframe_zOS "Volver a la página de inicio")

@@ -2,7 +2,8 @@
 
 | Name | Version | Description | Date |
 | ----------- | ----------- | ----------- | ----------- |
-| AC | 1.0 | Initial Version | 13th July 2025 |
+| AC | 1.0 | Initial Version | 12th July 2025 |
+| AC | 1.1 | Initial Main Menu | 13th July 2025 |
 
 # Main Menu
 
